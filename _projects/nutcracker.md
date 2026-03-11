@@ -1,5 +1,5 @@
 _projects/
     nutcracker.md
-assets/
+_projects/
     images/
         nutcracker.png
