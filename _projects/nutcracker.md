@@ -4,4 +4,4 @@ title: Nutcracker Design
 permalink: /projects/nutcracker/
 ---
 
-![Nutcracker](nutcracker.png)
+![Nutcracker] (/assets/nutcracker.png)
