@@ -4,4 +4,4 @@ title: Nutcracker Design
 permalink: /projects/nutcracker/
 ---
 
-![Nutcracker] (/assets/nutcracker.png)
+ ![Nutcracker]({{ '/assets/nutcracker.png' | relative_url }})
