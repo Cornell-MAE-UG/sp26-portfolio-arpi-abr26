@@ -14,7 +14,7 @@ permalink: /cv/
 
 #### Objective
 Aspiring mechanical engineer with hands-on experience in fabrication, electronics, and interdisciplinary design. Looking to contribute to collaborative engineering projects and apply technical skills to real-world challenges.
----
+
 
 #### Education
 - **Cornell University**  
@@ -25,12 +25,12 @@ Aspiring mechanical engineer with hands-on experience in fabrication, electronic
 
 - **[Wayland High School]**  
   *High School Diploma*  
-  Graduation: [May, 2025]
+  Graduation: May, 2025
 
 ---
 
 #### Skills
-- **Software:** Java, Python, Arduino, HTML; CAD (SolidWorks, Onshape, Fusion 360)  
+- **Software:** Java, Python, Arduino, HTML, SolidWorks, Onshape, Fusion 360 
 - **Fabrication:** Laser cutting, soldering, 3D printing, CNC routing, casting, mold design  
 - **Tools:** Drill press, chop saw, jigsaw, belt sander, blade runner saw, embroidery machine, heat shrink
 
