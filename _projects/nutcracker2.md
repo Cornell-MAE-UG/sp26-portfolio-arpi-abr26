@@ -5,3 +5,5 @@ permalink: /projects/nutcracker2/
 ---
 
  ![Nutcracker]({{ '/assets/nutcracker2.png' | relative_url }})
+
+![Nutcracker](/assets/nutcracker2.png)
