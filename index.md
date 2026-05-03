@@ -6,7 +6,7 @@ title: <Arpi Abrahamian>
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.JPG" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/profile-pic.jpeg" | relative_url }}){: class="profile-image"}
 
  
 My name is {{ site.name }}, and this is my website. 
